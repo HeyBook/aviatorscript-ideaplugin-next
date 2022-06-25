@@ -1,7 +1,7 @@
 //
 
 plugins {
-    id "org.jetbrains.intellij" version "$ijpVersion"
+    id "org.jetbrains.intellij" version '1.2.1'
     id "org.jetbrains.grammarkit" version "$grammarKitVersion"
 }
 

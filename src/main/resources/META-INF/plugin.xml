@@ -1,8 +1,8 @@
 <idea-plugin>
     <id>AviatorScript</id>
     <name>AviatorScript</name>
-    <vendor email="yanchangyou@qq.com" url="http://www.321zou.com">321zou</vendor>
-    <idea-version since-build="213" until-build="213.*" />
+    <vendor email="zml@alianga.com" url="https://www.alianga.com.com">zml2015</vendor>
+    <idea-version since-build="221" until-build="221.*" />
     <description><![CDATA[
 
        <br/>
